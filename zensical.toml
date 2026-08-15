@@ -1,14 +1,14 @@
 [project]
-site_url = "https://www.example.com/"
+site_url = "https://www.inter-institute-wiki.github.io./wikistute"
 site_name = "Wikistute"
 docs_dir = "wikistute"
-# site_description = "Your project description"
+site_description = "A collection of all-round info across different Higher Education Institutions in India."
 # site_author = "Your name"
 
 # copyright = "Copyright &copy; 2026 Your name"
 
-# repo_url = "https://github.com/user/repo"
-# repo_name = "user/repo"
+repo_url = "https://github.com/inter-institute-wiki/wikistute"
+repo_name = "inter-institute-wiki/wiki"
 # edit_uri = "edit/main/docs/"
 
 nav = [
@@ -17,7 +17,9 @@ nav = [
   { "Contribute" = "contribute.md"}
 ]
 
-# extra_css = ["stylesheets/extra.css"]
+# extra_css = [
+#   "stylesheets/extra.css",
+# ]
 # extra_javascript = ["javascripts/extra.js"]
 
 [project.theme]
@@ -59,8 +61,8 @@ features = [
 # [project.theme.icon]
 # logo = "lucide/smile"
 
-# [project.theme.font]
-# text = "Inter"
+[project.theme.font]
+text = "Inter"
 # code = "Jetbrains Mono"
 
 [[project.theme.palette]]
