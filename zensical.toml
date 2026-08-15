@@ -1,5 +1,5 @@
 [project]
-site_url = "https://www.inter-institute-wiki.github.io./wikistute"
+site_url = "https://www.inter-institute-wiki.github.io/wikistute"
 site_name = "Wikistute"
 docs_dir = "wikistute"
 site_description = "A collection of all-round info across different Higher Education Institutions in India."
@@ -8,7 +8,7 @@ site_description = "A collection of all-round info across different Higher Educa
 # copyright = "Copyright &copy; 2026 Your name"
 
 repo_url = "https://github.com/inter-institute-wiki/wikistute"
-repo_name = "inter-institute-wiki/wiki"
+repo_name = "inter-institute-wiki/wikistute"
 # edit_uri = "edit/main/docs/"
 
 nav = [
